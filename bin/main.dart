@@ -1,3 +1,4 @@
 void main() {
-  print(43 % 2);
+  int number = 43;
+  print(number % 2);
 }
